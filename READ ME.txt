@@ -1,8 +1,0 @@
-Running the main.py script should open a widget that allows image files ending in .png or .bmp to be selected.
-This will require placing the image file inside the input_photos folder.
-Then the script will run its own custom JPEG encoding algorithm to generate a text file that will be in 
-the compressed photos folder.
-
-This can then be decompressed using the decompression tab through a similar process.
-
-This project is not bug-free, there may be some strange visual artefacts.
